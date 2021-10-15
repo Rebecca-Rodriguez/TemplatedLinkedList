@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Rebecca Velez\OneDrive - University of Florida\COP 3503 - Assignments\Project1_LinkedList\LinkedList\LinkedList\LinkedList.h(433,9): error C2275: 'std::out_of_range': illegal use of this type as an expression
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\stdexcept(90): message : see declaration of 'std::out_of_range'
+C:\Users\Rebecca Velez\OneDrive - University of Florida\COP 3503 - Assignments\Project1_LinkedList\LinkedList\LinkedList\LinkedList.h(428): message : while compiling class template member function 'const LinkedList<int>::Node *LinkedList<int>::GetNode(unsigned int) const'
+C:\Users\Rebecca Velez\OneDrive - University of Florida\COP 3503 - Assignments\Project1_LinkedList\LinkedList\LinkedList\LinkedList.h(620): message : see reference to function template instantiation 'const LinkedList<int>::Node *LinkedList<int>::GetNode(unsigned int) const' being compiled
+C:\Users\Rebecca Velez\OneDrive - University of Florida\COP 3503 - Assignments\Project1_LinkedList\LinkedList\LinkedList\LinkedList.h(93): message : while compiling class template member function 'LinkedList<int>::LinkedList(const LinkedList<int> &)'
+C:\Users\Rebecca Velez\OneDrive - University of Florida\COP 3503 - Assignments\Project1_LinkedList\LinkedList\LinkedList\main.cpp(80): message : see reference to function template instantiation 'LinkedList<int>::LinkedList(const LinkedList<int> &)' being compiled
+C:\Users\Rebecca Velez\OneDrive - University of Florida\COP 3503 - Assignments\Project1_LinkedList\LinkedList\LinkedList\main.cpp(29): message : see reference to class template instantiation 'LinkedList<int>' being compiled
